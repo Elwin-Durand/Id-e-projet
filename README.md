@@ -1,6 +1,6 @@
 # Id-e-projet
 
-##Fighting game ou platform game avec 2 joueurs
+##Fighting game ou platform game avec 2 joueurs##
 
 
 [Appeal des fighting games](https://www.youtube.com/watch?v=UT2pDl-lKX8)\
