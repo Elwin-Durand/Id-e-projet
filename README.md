@@ -1,11 +1,11 @@
 # Id-e-projet
 
-## Fighting game ou platform game avec 2 joueurs
+## Roulette à mini-jeux 2 joueurs
 
 
-[Appeal des fighting games](https://www.youtube.com/watch?v=UT2pDl-lKX8)\
-[Interface](https://www.bing.com/images/search?view=detailV2&ccid=kLHjASd4&id=55214132FDC13C97BC2815A30BAEAC4A0B50DEB7&thid=OIP.kLHjASd4vV1KJv4eHrJHZgHaEK&mediaurl=https%3a%2f%2fmiro.medium.com%2fmax%2f7680%2f1*dxsgVwUfaYHy7lm_Ydu2Zw.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.90b1e3012778bd5d4a26fe1e1eb24766%3frik%3dt95QC0qsrgujFQ%26pid%3dImgRaw%26r%3d0&exph=2160&expw=3840&q=fighting+game&simid=608032503303725325&FORM=IRPRST&ck=72A522AD2E8F9184489500B91068A77D&selectedIndex=9&ajaxhist=0&ajaxserp=0)\
-[2D vs 3D](https://www.youtube.com/watch?v=F_oVEuU38hM)
+[Appeal des mini-jeux](https://www.games-geeks.fr/mini-jeux-maxi-fun/)\
+[Interface](https://www.bing.com/images/search?view=detailV2&ccid=gyKi0fxD&id=F8A78ABDD925E18F216CE6A60302C5D6DD58B3C6&thid=OIP.gyKi0fxDEaSR0kYiwvkePgHaHa&mediaurl=https%3a%2f%2fi5.walmartimages.com%2fasr%2fa4dc42ee-9916-4ecd-bb47-8ebec218ee92_1.c4785cb15eb97474aaa75dfe0e4c5188.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8322a2d1fc4311a491d24622c2f91e3e%3frik%3dxrNY3dbFAgOm5g%26pid%3dImgRaw%26r%3d0&exph=1600&expw=1600&q=spin+the+wheel&simid=608028298534472982&FORM=IRPRST&ck=4F688E862AF747B791AC713CB2B245E2&selectedIndex=3&ajaxhist=0&ajaxserp=0)\
+[Choix de jeux](https://www.bing.com/images/search?view=detailV2&ccid=kLNuqufI&id=69C5F74A33628D673A9D665BD5CF490C246791F6&thid=OIP.kLNuqufIJnuQeJJvipydcAHaHa&mediaurl=https%3a%2f%2fwww.bigw.com.au%2fmedias%2fsys_master%2fimages%2fimages%2fh62%2fh86%2f10668971196446.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.90b36eaae7c8267b9078926f8a9c9d70%3frik%3d9pFnJAxJz9VbZg%26pid%3dImgRaw%26r%3d0&exph=2000&expw=2000&q=classic+games&simid=607995381906482597&FORM=IRPRST&ck=498998960E82FC60B8931A05FCD92423&selectedIndex=4&ajaxhist=0&ajaxserp=0)
 
 
 
