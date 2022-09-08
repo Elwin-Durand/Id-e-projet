@@ -12,7 +12,7 @@
 ## Choix de manette ou interactivité
 
 [ Touch designer](https://youtu.be/NRhDpDxTsLA)
-[Fightsick](https://www.bing.com/images/search?view=detailV2&ccid=vAesVAwL&id=602F680F49C39DE2F6C41BE6F70750BE779823EC&thid=OIP.vAesVAwLJGllLOnaP-SbmQHaEK&mediaurl=https%3a%2f%2fdm0qx8t0i9gc9.cloudfront.net%2fthumbnails%2fvideo%2f49EwKH5deijotr386%2fvideoblocks-man-and-woman-are-sitting-in-chairs-watching-tv-with-a-green-screen-they-are-very-emotional-and-excited-watch-sports-competitions-back-view-chroma-key-indoors_bfputg0us_thumbnail-1080_01.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bc07ac540c0b2469652ce9da3fe49b99%3frik%3d7COYd75QB%252ffmGw%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1920&q=2+person+in+front+screen&simid=608055000348976157&FORM=IRPRST&ck=DEEC63F4B4EF82913A2E493331C571A7&selectedIndex=6&ajaxhist=0&ajaxserp=0)
+[Vu de l'extérieur](https://www.bing.com/images/search?view=detailV2&ccid=vAesVAwL&id=602F680F49C39DE2F6C41BE6F70750BE779823EC&thid=OIP.vAesVAwLJGllLOnaP-SbmQHaEK&mediaurl=https%3a%2f%2fdm0qx8t0i9gc9.cloudfront.net%2fthumbnails%2fvideo%2f49EwKH5deijotr386%2fvideoblocks-man-and-woman-are-sitting-in-chairs-watching-tv-with-a-green-screen-they-are-very-emotional-and-excited-watch-sports-competitions-back-view-chroma-key-indoors_bfputg0us_thumbnail-1080_01.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bc07ac540c0b2469652ce9da3fe49b99%3frik%3d7COYd75QB%252ffmGw%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1920&q=2+person+in+front+screen&simid=608055000348976157&FORM=IRPRST&ck=DEEC63F4B4EF82913A2E493331C571A7&selectedIndex=6&ajaxhist=0&ajaxserp=0)
  
 ## Compétences générales requises 
 Musiques, Programmation, Design/Modélisation/Création d'éléments
